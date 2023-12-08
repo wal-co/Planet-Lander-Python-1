@@ -24,10 +24,8 @@ Written as the final for CNM CIS 1250: Python 1
 6) Run the game using `python PlanetLander.py`
 
 # Updating settings.py
-I have hard-coded screen height and width into the game. If you find the options to be ill suited to your screen, change the constants with in this file
 I have hard-coded screen height and width into the game. If you find the options to be ill suited to your screen, change the constants within this file
 
-I also have included a "difficulty" setting if you find it to easy or hard to land on the planets safely.
 I also have included a "difficulty" setting, if you find it too easy or hard to land on the planets safely.
 
 # Playing the Game
