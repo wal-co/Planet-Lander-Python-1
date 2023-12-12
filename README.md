@@ -29,7 +29,7 @@ I have hard-coded screen height and width into the game.
 If you find the options to be ill suited to your screen, change the constants within this file
 
 I also have included a "difficulty" setting.
-If you find it to easy or hard to land on the planets safely.
+If you find it too easy or hard to land on the planets safely you can change this setting. A lower number is harder.
 
 # Playing the Game
 
